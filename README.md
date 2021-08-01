@@ -7,7 +7,7 @@
 
 ## Determinando de forma teórica del número **s** de servidores necesarios para cumplir el requisito del enunciado.
 
-Se sabe que la ecuación para calcular \rho es la siguiente:
+Se sabe que la ecuación para calcular $$\rho$$ es la siguiente:
 $$\rho = \frac{\lambda}{s \cdot \nu}$$
 
   Ahora se sustituyen valores:
