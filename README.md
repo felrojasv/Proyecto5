@@ -31,5 +31,5 @@ De lo anterior se concluye que el número mínimo de servidores es de 29, con el
 
 ## Modelo Markov desarrollado.
 
-Basados en la teoria de colas y considerando los objetivos de diseño, se presenta el código desarrollado y los principales resultados. 
+Basados en la teoria de colas y considerando los objetivos de diseño, se presenta el código implementado y los principales resultados. 
 
