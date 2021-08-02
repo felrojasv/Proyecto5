@@ -29,4 +29,4 @@ $$\longrightarrow \sqrt[101]{ \left(\frac{28^{101}}{0.05} \right)}\leq   s  \lon
 De lo anterior se concluye que el número mínimo de servidores es de 29, con el fin de cumplir la condición dada en el enunciado. 
 
 
-## Modelo Marcov desarrollado bajo los objetivos de diseño.
+## Modelo Markov desarrollado bajo los objetivos de diseño.
